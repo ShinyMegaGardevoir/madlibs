@@ -1,0 +1,7 @@
+#nodejs
+node_modules/
+npm-debug.log
+
+# project
+dist/
+env.js
