@@ -6,10 +6,12 @@ class Home extends Component {
   render() {
     return (
       <div className='home'>
-      { Header() }
-      <Card />
+      	{ Header() }
+     	<Card />
+
       </div>
     );
   }
 }
 
+export default Home;

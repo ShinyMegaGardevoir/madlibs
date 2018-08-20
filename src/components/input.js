@@ -4,7 +4,7 @@ const Input = (title) => {
 	return (
 		<div className = "input">
 			<input />
-			<label>Color</label>
+			<label>{title}</label>
 		</div>
 	)
 }
